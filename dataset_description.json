@@ -1,7 +1,12 @@
 {
     "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
-        "Ortiz-Tudela, Javier"
+        "Javier Ortiz-Tudela",
+        "Johanna Bergman",
+        "Matt Bennett",
+        "Isabelle Ehrich",
+        "Lars Muckli",
+        "Yee Lee Shing"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
