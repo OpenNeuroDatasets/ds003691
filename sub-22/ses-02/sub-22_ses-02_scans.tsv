@@ -1,0 +1,8 @@
+filename	acq_time	operator	randstr
+func/sub-22_ses-02_task-feedBES_run-3_bold.nii.gz	2020-09-09T11:42:45	Dr. Shrestha	e6aa4829
+fmap/sub-22_ses-02_acq-feedBES_dir-AP_epi.nii.gz	2020-09-09T11:53:38	Dr. Shrestha	5d3642d9
+fmap/sub-22_ses-02_acq-feedBES_dir-PA_epi.nii.gz	2020-09-09T11:54:30	Dr. Shrestha	a7e6dc2b
+func/sub-22_ses-02_task-feedBES_run-4_bold.nii.gz	2020-09-09T11:56:05	Dr. Shrestha	3bbf762e
+func/sub-22_ses-02_task-sensoryT_bold.nii.gz	2020-09-09T12:07:43	Dr. Shrestha	ed4f56a3
+anat/sub-22_ses-02_acq-orig_T1w.nii.gz	2020-09-09T12:22:44	Dr. Shrestha	976ed306
+func/sub-22_ses-02_task-retmap_bold.nii.gz	2020-09-09T12:25:45	Dr. Shrestha	b40c3d18
